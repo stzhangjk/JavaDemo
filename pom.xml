@@ -25,6 +25,8 @@
     <modules>
         <module>8-001-RepeatingAnnotations</module>
         <module>0-001-ReflectAndClass</module>
+        <module>0-002-Vector</module>
+        <module>0-003-JMX</module>
     </modules>
 
 </project>
