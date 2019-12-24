@@ -44,6 +44,7 @@
         <module>001-Collection</module>
         <module>002-ConcurrentHashMap</module>
         <module>003-LinkedHashMap</module>
+        <module>0-003-JMX</module>
     </modules>
 
 </project>
