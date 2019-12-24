@@ -39,11 +39,11 @@
     </build>
 
     <modules>
-        <module>8-001-RepeatingAnnotations</module>
-        <module>0-001-ReflectAndClass</module>
+        <module>000-ReflectAndClass</module>
         <module>001-Collection</module>
         <module>002-ConcurrentHashMap</module>
         <module>003-LinkedHashMap</module>
+        <module>004-RepeatingAnnotations</module>
     </modules>
 
 </project>
